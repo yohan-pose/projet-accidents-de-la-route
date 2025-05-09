@@ -9,3 +9,5 @@ Ce projet s'inscrit dans une démarche de data science complète : de l'acquisit
 **Objectif :** identifier les facteurs corrélés aux accidents (conditions météo, type de véhicule, profil conducteur)
 
 **Source des données :** ONISR
+
+## Préparation des données
