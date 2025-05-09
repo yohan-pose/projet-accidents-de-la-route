@@ -10,4 +10,10 @@ Ce projet s'inscrit dans une démarche de data science complète : de l'acquisit
 
 **Source des données :** ONISR
 
+## Exploration des données
+
 ## Préparation des données
+
+## Modélisation prédictive
+
+## Visualisation
