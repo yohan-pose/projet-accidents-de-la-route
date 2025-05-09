@@ -7,4 +7,5 @@ L'objectif principal de cette étude est double : d'une part, explorer les tenda
 Ce projet s'inscrit dans une démarche de data science complète : de l'acquisition des données brutes à leur préparation, en passant par l'analyse exploratoire, la visualisation, et la mise en œuvre d'algorithmes de machine learning. Il permettra ainsi de valoriser des compétences techniques en Python (Pandas, Scikit-learn, Matplotlib), tout en sensibilisant à l'importance des données dans la compréhension et la réduction des risques routiers.
 
 **Objectif :** identifier les facteurs corrélés aux accidents (conditions météo, type de véhicule, profil conducteur)
+
 **Source des données :** ONISR
